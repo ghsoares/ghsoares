@@ -1,4 +1,4 @@
-<h1 align = "center" self-align = "center"> Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name's Gabriel</h1>
+<h1 align = "center" self-align = "center"> Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> My name's Gabriel</h1>
 
 ## Self-taught front-end developer
 Hello! My name's Gabriel Henrique, I'm a self-taught front-end developer with 3+ years of coding experience with ReactJS, React Native, Node JS, Typescript and more. Also a game developer on free time 🕹
