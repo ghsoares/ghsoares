@@ -1,17 +1,27 @@
 <h1 align = "center" self-align = "center"> Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> My name's Gabriel</h1>
 
-## Self-taught front-end developer
-Hello! My name's Gabriel Henrique, I'm a self-taught front-end developer with 3+ years of coding experience with ReactJS, React Native, Node JS, Typescript and more. Also a game developer on free time 🕹
+## Self-taught software developer
+Hi! My name is Gabriel Henrique and I am a self-taught software developer.
+
+I'm always looking for new opportunities to learn new things, new experiences, new knowledge and apply it in practical projects or spread my knowledge to more people.
+
+I am an very optimist person and I always look for the best solution to a problem, whether for a project or for the team, I always try to have a leadership posture motivating the team, listening to problems, helping with doubts and walking side by side in the rhythm of all.
 
 I'm currently working on [Tico](https://github.com/ghsoares/Tico) and [React GD](https://github.com/ghsoares/ReactGD).
 
 ## 🚀💻 Technologies & Tools
+#### Back-end:
+- ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+- ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 #### Front-end:
 - ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 - ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 - ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 - ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
