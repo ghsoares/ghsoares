@@ -70,12 +70,6 @@ React GD was created as a personal need of a tool like this, but as no one was m
 - Digital House, Brazil, Full-stack development, February 2022 to July 2022;
 - Faculdade de Informática e Administração Paulista, Brazil, System Analysis and Development technologist, 2020 to 2021;
 - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Brazil, Computer Network technician, 2017 to 2019.
-
-## 📫 Contact
-You can contact me at any time from my email: ghsoares99795@gmail.com
-
-## 🔗 Other links
-- LinkedIn: https://www.linkedin.com/in/ghsoares
 <!--
 **ghsoares/ghsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
