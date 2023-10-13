@@ -7,11 +7,10 @@ I'm always looking for new opportunities to learn new things, new experiences, n
 
 I am an very optimist person and I always look for the best solution to a problem, whether for a project or for the team, I always try to have a leadership posture motivating the team, listening to problems, helping with doubts and walking side by side in the rhythm of all.
 
-I'm currently working on [Tico](https://github.com/ghsoares/Tico) and [React GD](https://github.com/ghsoares/ReactGD).
-
 ## 🚀💻 Technologies & Tools
 #### Back-end:
 - ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 - ![image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 - ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -27,16 +26,32 @@ I'm currently working on [Tico](https://github.com/ghsoares/Tico) and [React GD]
 
 #### Command line:
 - ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 - ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 - ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![image](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+#### Game development:
+- ![image](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+- ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 #### Version control:
 - ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## ⭐ Featured projects
+### Godui
+[Repository link](https://github.com/ghsoares/godui)
+
+Godui is a GUI library for Godot 4.x which provides utilities to easily create dynamic graphical user interfaces inside code, inspired by [egui](https://github.com/emilk/egui).
+
+### Chirper
+[Backend](https://github.com/ghsoares/chirper-backend)
+
+[Frontend](https://github.com/ghsoares/chirper-frontend)
+
+Chirper is a simple social network project replicating Twitter's common features, like creating a post (chirp!), liking, commenting, follow, etc.
+
 ### Tico
 [Repository link](https://github.com/ghsoares/Tico)
 
