@@ -1,7 +1,7 @@
 <h1 align = "center" self-align = "center"> Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> My name's Gabriel</h1>
 
 ## Self-taught software developer
-Hi! My name is Gabriel Henrique and I am a self-taught software developer.
+Hi! My name is Gabriel and I am a self-taught software developer.
 
 I'm always looking for new opportunities to learn new things, new experiences, new knowledge and apply it in practical projects or spread my knowledge to more people.
 
